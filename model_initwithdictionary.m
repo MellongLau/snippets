@@ -1,17 +1,17 @@
-// Objective-C -init Method
-// Initialize an object.
+// Model initWithDictionary
+// 
 //
 // IDECodeSnippetCompletionPrefix: init
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
-// IDECodeSnippetIdentifier: B25FEFF4-89B8-4266-85F4-1DC0CB2B6769
+// IDECodeSnippetIdentifier: 94E7C0A6-24D8-46D6-BEA1-55DB352C2FC2
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 1
-- (instancetype)init
+// IDECodeSnippetVersion: 2
+- (id)initWithDictionary:(NSDictionary *)data
 {
     self = [super init];
     if (self) {
-        <#statements#>
+        self.<#member#> = data[@"<#string#>"];
     }
     return self;
 }
