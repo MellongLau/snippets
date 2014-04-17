@@ -3,7 +3,7 @@
 //
 // IDECodeSnippetCompletionPrefix: nsenum
 // IDECodeSnippetCompletionScopes: [CodeBlock,TopLevel]
-// IDECodeSnippetIdentifier: 79887407-FA3B-418F-B696-0EE3744E6E08
+// IDECodeSnippetIdentifier: 9315B0DE-9336-4FFB-A1A0-DC836F3480A2
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
