@@ -3,7 +3,7 @@
 //
 // IDECodeSnippetCompletionPrefix: enumdef
 // IDECodeSnippetCompletionScopes: [CodeBlock,TopLevel]
-// IDECodeSnippetIdentifier: 0801122B-3C8C-43EE-9A98-DCFD1DD2EB4E
+// IDECodeSnippetIdentifier: 1FCEE26F-5F2E-47F1-BEA7-B4C86D07A2C1
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
