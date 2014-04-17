@@ -3,7 +3,7 @@
 //
 // IDECodeSnippetCompletionPrefix: 
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
-// IDECodeSnippetIdentifier: AA295157-2760-49FC-9595-B53E82D95AC7
+// IDECodeSnippetIdentifier: ECFB8E6B-7B54-4BF2-9E40-4F841612A093
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
