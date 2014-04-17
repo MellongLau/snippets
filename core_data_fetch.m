@@ -3,7 +3,7 @@
 //
 // IDECodeSnippetCompletionPrefix: fetch
 // IDECodeSnippetCompletionScopes: [CodeBlock]
-// IDECodeSnippetIdentifier: 050BD4B3-0DEF-4ACF-ABCD-117DD07C67EC
+// IDECodeSnippetIdentifier: 798482F4-E8C6-4693-AD76-427A1DEC8262
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
