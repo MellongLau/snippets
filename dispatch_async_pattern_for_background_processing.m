@@ -1,5 +1,5 @@
 // Dispatch_async Pattern for Background Processing
-// 
+// Dispatch to do work in the background, and then to the main queue with the results
 //
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: 28D91295-9E7D-425A-B88D-82B36E2FFD9D
