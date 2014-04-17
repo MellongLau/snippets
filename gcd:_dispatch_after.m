@@ -1,10 +1,9 @@
 // gcd:_dispatch_after
 // Execute a block after a set amount of time.
 //
-// gcd: _dispatch_after
 // IDECodeSnippetCompletionPrefix: dispatch_after snippet
 // IDECodeSnippetCompletionScopes: [CodeBlock]
-// IDECodeSnippetIdentifier: 321E5FDF-D6A5-4FD3-B288-A1E7139BFC78
+// IDECodeSnippetIdentifier: 37DBD0A8-B1A8-421F-960B-CFCC8023417E
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
