@@ -3,7 +3,7 @@
 //
 // IDECodeSnippetCompletionPrefix: structdef
 // IDECodeSnippetCompletionScopes: [CodeBlock,TopLevel]
-// IDECodeSnippetIdentifier: 6F7AEA45-DE00-441C-AD09-A13CB94C7D14
+// IDECodeSnippetIdentifier: 76C0D602-1407-48C8-BF4F-45B54AEE8D22
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
