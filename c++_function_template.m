@@ -3,7 +3,7 @@
 //
 // IDECodeSnippetCompletionPrefix: templatefunction
 // IDECodeSnippetCompletionScopes: [TopLevel]
-// IDECodeSnippetIdentifier: BF166306-0FAB-46DB-AFFE-5CC43A243492
+// IDECodeSnippetIdentifier: A753907D-8692-4D3E-9E4A-431D5F261B93
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C-Plus-Plus
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
