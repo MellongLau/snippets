@@ -1,7 +1,7 @@
 // Model Init
 // 
 //
-// IDECodeSnippetCompletionPrefix: $Model
+// IDECodeSnippetCompletionPrefix: $Model Init
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: D5CACF66-BC27-42F3-98BD-832F959544B7
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
