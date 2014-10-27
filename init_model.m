@@ -18,5 +18,5 @@
 
 + (id)modelWithDBData:(FMResultSet *)data
 {
-    return [[WKSleepDailyModel alloc] initWithDBData:data];
+    return [[<#ModelClass alloc] initWithDBData:data];
 }
