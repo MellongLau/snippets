@@ -18,5 +18,5 @@
 
 + (id)modelWithDBData:(FMResultSet *)data
 {
-    return [[<#ModelClass alloc] initWithDBData:data];
+    return [[<#ModelClassName#> alloc] initWithDBData:data];
 }
