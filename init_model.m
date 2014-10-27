@@ -6,7 +6,7 @@
 // IDECodeSnippetIdentifier: D5CACF66-BC27-42F3-98BD-832F959544B7
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 - (id)initWithDBData:(FMResultSet *)data
 {
     self = [super init];
